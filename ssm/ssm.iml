@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="web application context" name="MVC application context" removed="true">
+          <file>file://$MODULE_DIR$/src/main/resources/spring/spring-mybatis.xml</file>
+        </fileset>
+        <fileset id="web springDispatcherServlet servlet context" name="MVC springDispatcherServlet servlet context" removed="true">
+          <file>file://$MODULE_DIR$/src/main/resources/spring/spring-mvc.xml</file>
+        </fileset>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/spring/spring-mvc.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring/spring-context-transaction.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring/spring-context-mybatis.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring/spring-context.xml</file>
+        </fileset>
+        <fileset id="web dispatchServlet servlet context" name="MVC dispatchServlet servlet context" removed="true">
+          <file>file://$MODULE_DIR$/src/main/resources/spring/spring-mvc.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+</module>
